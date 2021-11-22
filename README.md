@@ -1,3 +1,3 @@
-![Comfort Club Logo](assets/images/Comfort Club logo.png.jpeg)
+![Comfort Club Logo](assets/images/comfort-club-logo-rdme.jpg)
 
 Logo - https://www.adobe.com/express/create/logo
