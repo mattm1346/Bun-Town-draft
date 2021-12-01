@@ -14,8 +14,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-
-    position: relative;
 }
 
 .main-takeaway-container {
@@ -34,16 +32,31 @@ body {
     position: relative;
 }
 
+.btn-danger {
+    font-size: 2.7rem;
+}
+
 .callout-text {
     font-weight: 400;
     width: 200;
-    color: azure;
+    color: white;
 }
 
-.footer-icons {
-    text-align: center;
+.blockquote {
+    margin-bottom: 1rem;
+    font-size: 2.25rem;
 }
 
-.list-inline-item i {
-    color: #343a40;
+.dropdown-item:hover {
+    background-color: #dc3545;
+    color: white;
+}
+
+.opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
 }
