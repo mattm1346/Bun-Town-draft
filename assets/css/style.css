@@ -1,0 +1,49 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+.main-menu-container {
+    height: 100vh;
+
+    background: url("/assets/images/knife-in-bun-unsplash.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+.main-takeaway-container {
+    height: 100vh;
+
+    background: url("/assets/images/takeaway-pizza-unsplash.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+.callout-text {
+    font-weight: 400;
+    width: 200;
+    color: azure;
+}
+
+.footer-icons {
+    text-align: center;
+}
+
+.list-inline-item i {
+    color: #343a40;
+}
