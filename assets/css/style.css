@@ -2,6 +2,8 @@ body {
     font-family: 'Nunito', sans-serif;
 }
 
+/* Homepage */
+
 .main-menu-container {
     height: 100vh;
 
@@ -32,10 +34,6 @@ body {
     position: relative;
 }
 
-.btn-danger {
-    font-size: 2.7rem;
-}
-
 .callout-text {
     font-weight: 400;
     width: 200;
@@ -44,7 +42,7 @@ body {
 
 .blockquote {
     margin-bottom: 1rem;
-    font-size: 2.25rem;
+    font-size: 1.5rem;
 }
 
 .dropdown-item:hover {
@@ -60,3 +58,7 @@ body {
     width: 100%;
     background-color: rgba(0, 0, 0, 0.5);
 }
+
+/* /.Homepage */
+
+/* Main Menu */
