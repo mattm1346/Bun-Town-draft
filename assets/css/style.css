@@ -62,3 +62,27 @@ body {
 /* /.Homepage */
 
 /* Main Menu */
+
+.btn-danger {
+    color: #fff;
+    display: block;
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+.container-fluid {
+    padding: 15px
+}
+
+.food-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    flex-wrap: nowrap;
+    align-content: stretch;
+    align-items: center;
+}
+
+.img-thumbnail {
+    width: 200px;
+}
