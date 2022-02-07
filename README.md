@@ -1,6 +1,6 @@
-![Comfort Club Logo](assets/images/comfort-club-logo-rdme.jpg)
+![Bun Town Logo](assets/images/bun-town.jpg)
 
-# Welcome to Comfort Club
+# Welcome to Bun Town!
 
 1. Image of Final website on all devices using http://techsini.com/multi-mockup/index.php
 
