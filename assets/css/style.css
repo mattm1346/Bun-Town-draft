@@ -1,5 +1,6 @@
 body {
     font-family: 'Nunito', sans-serif;
+    color: #343a40;
 }
 
 /* Homepage */
@@ -81,4 +82,18 @@ body {
 
 .menu-items {
     align-items: center;
+}
+
+/* Booking */
+
+.form {
+    text-align: center;
+    display: flex;
+    align-items: flex-start;
+    align-content: center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border: 2px solid #dc3545;
+    border-radius: 0.3rem;
+    padding: 5px;
 }
